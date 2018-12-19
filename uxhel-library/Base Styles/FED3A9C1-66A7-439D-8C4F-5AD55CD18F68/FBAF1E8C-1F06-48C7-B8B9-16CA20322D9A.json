@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "9E3489B4-0289-4623-BCEE-21DB2773FBC6",
+  "do_objectID": "FBAF1E8C-1F06-48C7-B8B9-16CA20322D9A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,30 +13,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 227,
-    "width": 227,
-    "x": 510,
-    "y": 353
+    "constrainProportions": true,
+    "height": 168,
+    "width": 300,
+    "x": 1000,
+    "y": 367
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4cea01f5e0fd15c93266f26f1a6d097bf087a962.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Logos/UXFinland",
+  "name": "download",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -43,13 +47,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "6D17A89E-8C3A-4DEB-BA46-2F49D8AED83B",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
-  "verticalSpacing": 0
+  }
 }

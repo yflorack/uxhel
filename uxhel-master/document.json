@@ -9885,7 +9885,7 @@
               "startMarkerType": 0,
               "windingRule": 1
             },
-            "symbolID": "98B2C444-35BC-46BE-8916-80D4B2B7A7A1",
+            "symbolID": "6B26A804-B791-4AE3-A2AC-7E4B9956B950",
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
                 "kModelPropertiesKey": {
@@ -12585,7 +12585,7 @@
           "startMarkerType": 0,
           "windingRule": 1
         },
-        "symbolID": "6D17A89E-8C3A-4DEB-BA46-2F49D8AED83B",
+        "symbolID": "43268491-5191-4821-97BB-563BFE1DFF54",
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
@@ -13054,7 +13054,7 @@
           "startMarkerType": 0,
           "windingRule": 1
         },
-        "symbolID": "98B2C444-35BC-46BE-8916-80D4B2B7A7A1",
+        "symbolID": "6B26A804-B791-4AE3-A2AC-7E4B9956B950",
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
@@ -15561,7 +15561,7 @@
           "startMarkerType": 0,
           "windingRule": 1
         },
-        "symbolID": "F0FD3B35-D056-466A-BCF7-479A7A1646A7",
+        "symbolID": "574DAD80-8ED7-43C7-8C90-0577EBA2B3E0",
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
@@ -15590,9 +15590,9 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 298,
+        "changeIdentifier": 370,
         "clippingMaskMode": 0,
-        "do_objectID": "CE083DD1-D84E-4010-82B1-1D438F24EAD4",
+        "do_objectID": "0DA0BDA6-094E-4685-83A3-3EAA57B44DFB",
         "exportOptions": {
           "_class": "exportOptions",
           "exportFormats": [
@@ -15608,7 +15608,7 @@
           "height": 200,
           "width": 200,
           "x": -398,
-          "y": 253
+          "y": 719
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -15634,7 +15634,7 @@
             "_class": "rectangle",
             "booleanOperation": -1,
             "clippingMaskMode": 0,
-            "do_objectID": "1E32EFB2-A1A2-4D25-8AAD-C9615590DCAC",
+            "do_objectID": "AE147C2C-413A-47CD-9DDC-6AFA7B3165E9",
             "edited": false,
             "exportOptions": {
               "_class": "exportOptions",
@@ -15737,9 +15737,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.6188066005706787,
-                    "green": 0.0009048220235854203,
-                    "red": 0.05703835934400574
+                    "blue": 0.3647058823529412,
+                    "green": 0.211764705882353,
+                    "red": 0.1058823529411765
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -15776,7 +15776,7 @@
             }
           }
         ],
-        "name": "Colors/Blue-Dark",
+        "name": "Colors/Blue-Pixels",
         "nameIsFixed": true,
         "resizesContent": false,
         "resizingConstraint": 63,
@@ -15790,7 +15790,7 @@
           "startMarkerType": 0,
           "windingRule": 1
         },
-        "symbolID": "50A09899-7A04-411D-A039-D786F3849726",
+        "symbolID": "43658DC3-31E7-49E5-BB47-4E6A0A328D0D",
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
@@ -15815,9 +15815,9 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 298,
+        "changeIdentifier": 370,
         "clippingMaskMode": 0,
-        "do_objectID": "CE083DD1-D84E-4010-82B1-1D438F24EAD4",
+        "do_objectID": "0DA0BDA6-094E-4685-83A3-3EAA57B44DFB",
         "exportOptions": {
           "_class": "exportOptions",
           "exportFormats": [
@@ -15833,7 +15833,7 @@
           "height": 200,
           "width": 200,
           "x": -398,
-          "y": 253
+          "y": 719
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -15859,7 +15859,7 @@
             "_class": "rectangle",
             "booleanOperation": -1,
             "clippingMaskMode": 0,
-            "do_objectID": "1E32EFB2-A1A2-4D25-8AAD-C9615590DCAC",
+            "do_objectID": "AE147C2C-413A-47CD-9DDC-6AFA7B3165E9",
             "edited": false,
             "exportOptions": {
               "_class": "exportOptions",
@@ -15962,9 +15962,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.6188066005706787,
-                    "green": 0.0009048220235854203,
-                    "red": 0.05703835934400574
+                    "blue": 0.3647058823529412,
+                    "green": 0.211764705882353,
+                    "red": 0.1058823529411765
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -16001,7 +16001,7 @@
             }
           }
         ],
-        "name": "Colors/Blue-Dark",
+        "name": "Colors/Blue-Pixels",
         "nameIsFixed": true,
         "resizesContent": false,
         "resizingConstraint": 63,
@@ -16015,7 +16015,7 @@
           "startMarkerType": 0,
           "windingRule": 1
         },
-        "symbolID": "4DD31497-2B15-4527-A6B7-94C26AADB74C",
+        "symbolID": "9BDF4650-7C1B-43AF-A2D4-66F31A7DDB3B",
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {

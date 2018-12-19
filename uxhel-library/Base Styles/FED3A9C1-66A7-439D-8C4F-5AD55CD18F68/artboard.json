@@ -93,6 +93,10 @@
     {
       "class": "symbolInstance",
       "id": "010398DC-37EE-434A-B33C-6E2DAD3E1349"
+    },
+    {
+      "class": "bitmap",
+      "id": "FBAF1E8C-1F06-48C7-B8B9-16CA20322D9A"
     }
   ],
   "name": "Colors",
