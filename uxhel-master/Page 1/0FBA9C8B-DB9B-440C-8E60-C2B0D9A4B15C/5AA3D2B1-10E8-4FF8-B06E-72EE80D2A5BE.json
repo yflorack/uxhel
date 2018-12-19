@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Regular",
-              "size": 20
+              "name": "ComicSansMS",
+              "size": 40
             }
           },
           "kerning": 0.0433,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 63,
+    "height": 140,
     "width": 240,
     "x": 1004,
-    "y": 199
+    "y": 175
   },
-  "glyphBounds": "{{0, 5}, {176, 20}}",
+  "glyphBounds": "{{2, 12}, {227, 100}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -85,8 +85,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
-            "size": 20
+            "name": "ComicSansMS",
+            "size": 40
           }
         },
         "kerning": 0.0433,
