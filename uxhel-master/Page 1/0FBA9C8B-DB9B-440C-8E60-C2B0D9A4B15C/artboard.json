@@ -57,6 +57,10 @@
     {
       "class": "bitmap",
       "id": "1EEFD286-16EC-4A4A-BCCE-66FDBBFE41AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25B61E0B-A0C6-4A5A-A005-0FBED5A95B62"
     }
   ],
   "name": "Facebook/Event Cover",
