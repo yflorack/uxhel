@@ -1,0 +1,120 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1518FC6-C6FD-482B-8B61-2F078B38DA2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 64.98779720000005,
+    "width": 105.8752604,
+    "x": 0.8310460000000148,
+    "y": 0.009457999999995078
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "516FFBA0-7CCA-440A-BE6A-9F9811885EB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "4101CB16-C2C7-472B-98C5-76B3492F9001"
+    },
+    {
+      "class": "shapePath",
+      "id": "9CB44DC8-ED10-4BEE-A83E-353E29E05AF4"
+    },
+    {
+      "class": "shapePath",
+      "id": "B9661D9E-2F1D-48AE-B1C1-D271EA0CED3D"
+    },
+    {
+      "class": "shapePath",
+      "id": "672CB3C7-229F-4F35-9FB2-CB58345BBDF1"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1540A43-CB58-493D-A894-EF8C73E0AD15"
+    },
+    {
+      "class": "shapePath",
+      "id": "458CDEC7-5611-4879-97CA-608FC7356D9F"
+    },
+    {
+      "class": "shapePath",
+      "id": "173C0E10-6946-4C75-AC95-2351197F6D0F"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3529411764705882,
+          "green": 0.3372549019607843,
+          "red": 0.3333333333333333
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "VAGRoundedLTPro-Bold",
+            "size": 83.1046
+          }
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 64.9878,
+            "enabled": 1,
+            "modelID": "constraint_c773b964-8ee3-4b1a-8884-153280426a6c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 105.8753
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_cfac560f-53b7-481e-a135-c4692d6f50e9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

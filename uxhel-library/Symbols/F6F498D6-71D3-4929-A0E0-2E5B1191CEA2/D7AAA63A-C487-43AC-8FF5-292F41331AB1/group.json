@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7AAA63A-C487-43AC-8FF5-292F41331AB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 215,
+    "x": 0.4406529037846667,
+    "y": 0.4988386216596155
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0A16A5BE-6ED2-469E-962F-4E15EF58FE24"
+    },
+    {
+      "class": "rectangle",
+      "id": "812ED2CF-02E4-4EF1-9AB9-6D2EA2FAE046"
+    },
+    {
+      "class": "rectangle",
+      "id": "A8AB4113-2691-4311-89DB-FC8212CEA10C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC9C7EAC-3478-45F0-B30B-25DBA92B3C36"
+    },
+    {
+      "class": "group",
+      "id": "355D3BEA-5554-46A1-A59F-0D3FD317F8AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5980696F-0DBF-4216-9422-E55CA589AA1A"
+    }
+  ],
+  "name": "MP_RGB_NoTM_Logo+Type Horisontal Blue",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

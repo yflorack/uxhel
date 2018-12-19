@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 261,
+  "clippingMaskMode": 0,
+  "do_objectID": "84CEF292-DB3C-44A6-91B8-FB9A5426FBB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 356,
+    "width": 394,
+    "x": 342,
+    "y": 2018
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "437660C5-8FB6-4486-83F2-12DE34220FB2"
+    },
+    {
+      "class": "shapePath",
+      "id": "6DC17477-2B7A-4263-AE42-36A076CBC496"
+    },
+    {
+      "class": "shapePath",
+      "id": "D45EFE9F-3A4F-428F-92E8-AFC4B0279073"
+    },
+    {
+      "class": "shapePath",
+      "id": "15C40BAC-7168-449D-979C-D724B9520BD1"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACC0ED26-E94D-40AF-ADB8-4F5222C6CE0F"
+    },
+    {
+      "class": "shapePath",
+      "id": "A12C8FDE-0855-4F6D-AFA8-7F552C182B08"
+    },
+    {
+      "class": "shapePath",
+      "id": "F88E08E3-C779-49C6-AA5E-C2B1E466055C"
+    },
+    {
+      "class": "shapePath",
+      "id": "A971BDA5-6B21-4609-AE03-DE002D051E31"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D3CF9A1-9965-4D25-BF3A-AB6E20D1D387"
+    }
+  ],
+  "name": "Logos/Sketch-Visual",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FCB8C00D-00A6-48E8-BFB0-35B2144E0498",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
