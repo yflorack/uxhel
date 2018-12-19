@@ -8,7 +8,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
   "do_objectID": "0FBA9C8B-DB9B-440C-8E60-C2B0D9A4B15C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,7 +28,6 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
-  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +51,10 @@
     {
       "class": "symbolInstance",
       "id": "E1A5D025-D9D0-4419-B41F-CEBEEB2C0C98"
+    },
+    {
+      "class": "text",
+      "id": "5AA3D2B1-10E8-4FF8-B06E-72EE80D2A5BE"
     }
   ],
   "name": "Facebook/Event Cover",

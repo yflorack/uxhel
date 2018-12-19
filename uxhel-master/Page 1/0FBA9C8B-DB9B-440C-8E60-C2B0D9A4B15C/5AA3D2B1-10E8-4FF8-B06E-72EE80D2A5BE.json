@@ -9,32 +9,32 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2666666666666667,
-            "green": 0.2549019607843137,
-            "red": 0.2549019607843137
+            "blue": 0.435294117647059,
+            "green": 0.2588235294117647,
+            "red": 0.9294117647058824
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Semibold",
-              "size": 42
+              "name": "SourceSansPro-Regular",
+              "size": 20
             }
           },
+          "kerning": 0.0433,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
+            "_class": "paragraphStyle"
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "test banner"
+    "string": "This is some changes"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "53ACAB7D-1C7B-46FB-8C7A-0F38273121B4",
+  "do_objectID": "5AA3D2B1-10E8-4FF8-B06E-72EE80D2A5BE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 214,
-    "x": 853,
-    "y": 490
+    "height": 63,
+    "width": 240,
+    "x": 1004,
+    "y": 199
   },
-  "glyphBounds": "{{0, 12}, {213, 30}}",
+  "glyphBounds": "{{0, 5}, {176, 20}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,9 +61,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "test banner",
+  "name": "This is some changes",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -78,20 +78,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2666666666666667,
-          "green": 0.2549019607843137,
-          "red": 0.2549019607843137
+          "blue": 0.435294117647059,
+          "green": 0.2588235294117647,
+          "red": 0.9294117647058824
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Semibold",
-            "size": 42
+            "name": "SourceSansPro-Regular",
+            "size": 20
           }
         },
+        "kerning": 0.0433,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_class": "paragraphStyle"
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -99,12 +99,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 2
 }
