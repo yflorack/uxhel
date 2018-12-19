@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD2522A6-895D-4376-9003-5FE00B250646",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EC11AF4-EF77-4328-88E0-506B57B611A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A01B700A-35A1-4B69-A994-4C948D54AAF7",
+    "height": 263,
+    "width": 201,
+    "x": 259.3223386034571,
+    "y": 336.4349971510744
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Components/Color-Swatch Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1079DB22-BEDE-48A7-BBAF-55B177624409",
+      "overrideName": "699F7FDA-DE9E-4AE0-9CA1-89FBDD79A90D_symbolID",
+      "value": "20431E8E-9036-4C9F-ACD8-1496261E7527"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF3BF7D1-EA80-4ACB-B786-87F2BAEE4977",
+      "overrideName": "12D2CD17-A9B7-4DBF-B123-F56FC16E0677_stringValue",
+      "value": "Pixel Pink"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44C635F8-A3F4-468F-A02E-9D9610881D06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69360A43-875B-4427-BF38-D92787876EAA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

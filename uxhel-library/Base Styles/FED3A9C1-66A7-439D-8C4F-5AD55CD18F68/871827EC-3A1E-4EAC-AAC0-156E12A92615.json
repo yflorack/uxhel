@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "871827EC-3A1E-4EAC-AAC0-156E12A92615",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03A646D7-C167-420C-8FF1-7D2445768A35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CCD84C7-9DB1-44B2-BF65-FB0AD9A895B2",
+    "height": 263,
+    "width": 201,
+    "x": 259.3223386034571,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Components/Color-Swatch Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1079DB22-BEDE-48A7-BBAF-55B177624409",
+      "overrideName": "699F7FDA-DE9E-4AE0-9CA1-89FBDD79A90D_symbolID",
+      "value": "F8E53B67-7BAB-4CEE-AD6D-F1B9FC738001"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF3BF7D1-EA80-4ACB-B786-87F2BAEE4977",
+      "overrideName": "12D2CD17-A9B7-4DBF-B123-F56FC16E0677_stringValue",
+      "value": "Black Rond"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40614370-07B4-4896-9BEC-0D7C455B758A",
+      "overrideName": "DF647D5E-9B35-4D25-8055-A10BE80DF98A_stringValue",
+      "value": "#1D1D1B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F488F58-8081-4983-AD1B-7D9C5364F4E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69360A43-875B-4427-BF38-D92787876EAA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
